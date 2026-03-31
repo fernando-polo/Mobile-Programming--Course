@@ -1,4 +1,4 @@
-# S192PM — Programación Móvil 📱
+# Mobile Programming - Course 📱
 
 Course repository for the Mobile Programming class. Contains exercises and practices developed throughout the semester using JavaScript and React Native with Expo.
 
